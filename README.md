@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Markus.
+- 👋 Hi, I’m Magnus.
+  - Other Names: ***Markus Garcia (pseudonym)***
 - 🌱 I’m currently learning how to make websites with **HTML**, **CSS**, and **Javascript**
 - 📫 How to reach me:
   - Discord: m4gnusrx
