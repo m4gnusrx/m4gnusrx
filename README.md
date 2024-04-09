@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Magnus.
+- 👋 Hi, I’m Markus.
 - 🌱 I’m currently learning how to make websites with **HTML**, **CSS**, and **Javascript**
 - 📫 How to reach me:
   - Discord: m4gnusrx
